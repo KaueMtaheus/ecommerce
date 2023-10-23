@@ -222,6 +222,11 @@ main {
     font-weight: 600;
 }
 
+.exclusive-container {
+    color: #fff;
+    flex-direction: row-reverse;
+}
+
 /*Media Query_____________________*/
 
 @media (max-width: 800px) {
